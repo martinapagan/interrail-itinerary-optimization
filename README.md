@@ -25,7 +25,7 @@ The repository is organized as follows:
 * **Data Analysis & Graphics:** Pandas, NumPy, Matplotlib, NetworkX (for visualizing the optimal itinerary graphs)
 * **Data Sourcing:** Integration of real-world metrics (Budget Your Trip for average daily destination costs)
 
-## 📈 Model Features & Results
+## Model Features & Results
 The mathematical model selects the optimal sequence of cities to visit and the respective length of stay in each. It includes:
 * Constraints on the maximum number of total travel days and effective train travel days (7 days within 1 month pass).
 * Customizable budget limits with specific sub-constraints for accommodation, food, and transport.
